@@ -1,0 +1,58 @@
+{
+  "nav": { "home": "होम", "quests": "क्वेस्ट", "simulator": "सिमुलेटर", "journey": "सफर", "profile": "प्रोफाइल", "coach": "कोच" },
+  "landing": {
+    "hero_heading": "कल का तू कैसा दिखेगा?",
+    "hero_sub": "स्लाइडर हिलाओ। अपना फ्यूचर देखो।",
+    "cta": "अपना फ्यूचर सेव करो →",
+    "cta_sub": "फ्री है। सिर्फ ईमेल चाहिए।"
+  },
+  "avatar": {
+    "thriving": "तेरा फ्यूचर सेल्फ खुश है!",
+    "stable": "सही रास्ते पे है तू",
+    "struggling": "फ्यूचर सेल्फ worried है",
+    "critical": "फ्यूचर सेल्फ मुश्किल में है",
+    "zero": "फ्यूचर सेल्फ शुरू नहीं हुआ अभी"
+  },
+  "coach": {
+    "thriving": "ज़बरदस्त! ऐसे ही चलता रह 🔥",
+    "stable": "थोड़ा और बढ़ाओ — ₹500 से फर्क पड़ता है",
+    "struggling": "यार seriously, अभी शुरू कर",
+    "critical": "फ्यूचर सेल्फ रो रहा है। Help करो उसे।",
+    "zero": "बस एक step। आज। ₹200 से शुरू कर।"
+  },
+  "quests": {
+    "title": "आज का क्वेस्ट",
+    "hint": "हिंट लो (−30% XP)",
+    "correct": "शाबाश! सही जवाब!",
+    "wrong": "गलत, लेकिन कोई बात नहीं।",
+    "xp_earned": "XP मिला",
+    "all_done": "आज के सब quests complete!"
+  },
+  "levels": {
+    "1": "नया Arthvo",
+    "2": "सीखता Arthvo",
+    "3": "समझता Arthvo",
+    "4": "बढ़ता Arthvo",
+    "5": "पक्का Arthvo",
+    "6": "सच्चा Arthvo",
+    "7": "पूरा Arthvo"
+  },
+  "auth": {
+    "register_heading": "Arthvo शुरू करो",
+    "register_sub": "फ्री है। हमेशा।",
+    "login_heading": "वापस आ गए!",
+    "login_sub": "तेरा future self wait कर रहा है।",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "register_cta": "शुरू करो →",
+    "login_cta": "अंदर जाओ →"
+  },
+  "simulator": {
+    "title": "NPS सिमुलेटर",
+    "corpus": "कॉर्पस",
+    "tax": "टैक्स",
+    "delay": "देरी की कीमत",
+    "compare": "तुलना",
+    "gig": "गिग वर्कर"
+  }
+}

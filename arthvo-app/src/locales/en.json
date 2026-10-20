@@ -1,0 +1,58 @@
+{
+  "nav": { "home": "Home", "quests": "Quests", "simulator": "Simulator", "journey": "Journey", "profile": "Profile", "coach": "Coach" },
+  "landing": {
+    "hero_heading": "What will your future self look like?",
+    "hero_sub": "Move the slider. See your future.",
+    "cta": "Save your future →",
+    "cta_sub": "Free. Forever."
+  },
+  "avatar": {
+    "thriving": "Your future self is happy!",
+    "stable": "You're on the right track",
+    "struggling": "Your future self is worried",
+    "critical": "Your future self is in trouble",
+    "zero": "Your future self hasn't started yet"
+  },
+  "coach": {
+    "thriving": "Incredible! Keep it going 🔥",
+    "stable": "Push a little more — ₹500 makes a difference",
+    "struggling": "Seriously, start now",
+    "critical": "Your future self is crying. Help them.",
+    "zero": "Just one step. Today. Start with ₹200."
+  },
+  "quests": {
+    "title": "Today's Quest",
+    "hint": "Get hint (−30% XP)",
+    "correct": "Correct! Well done!",
+    "wrong": "Wrong, but keep learning.",
+    "xp_earned": "XP earned",
+    "all_done": "All quests complete today!"
+  },
+  "levels": {
+    "1": "New Arthvo",
+    "2": "Learning Arthvo",
+    "3": "Understanding Arthvo",
+    "4": "Growing Arthvo",
+    "5": "Committed Arthvo",
+    "6": "True Arthvo",
+    "7": "Complete Arthvo"
+  },
+  "auth": {
+    "register_heading": "Start Arthvo",
+    "register_sub": "Free. Forever.",
+    "login_heading": "Welcome back!",
+    "login_sub": "Your future self is waiting.",
+    "email": "Email",
+    "password": "Password",
+    "register_cta": "Get started →",
+    "login_cta": "Sign in →"
+  },
+  "simulator": {
+    "title": "NPS Simulator",
+    "corpus": "Corpus",
+    "tax": "Tax",
+    "delay": "Delay Cost",
+    "compare": "Compare",
+    "gig": "Gig Worker"
+  }
+}
